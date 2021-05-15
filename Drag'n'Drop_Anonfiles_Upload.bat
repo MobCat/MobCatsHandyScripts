@@ -1,0 +1,1 @@
+curl -F "file=@%~1" https://api.anonfiles.com/upload -# > Upload.txt
