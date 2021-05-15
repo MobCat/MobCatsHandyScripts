@@ -1,2 +1,6 @@
-# MobCatsHandyScripts
-MobCat's Handy Scripts
+# MobCat's Handy Scripts
+
+About
+This is a colection of handy scripts I use or made because i'm lazy
+These scripts are mostly windows based but there are also a few python things in here too.
+Each script will have there own readme on what it is and how to use it, so for more info on each script check there first.
